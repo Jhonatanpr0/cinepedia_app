@@ -1,6 +1,6 @@
-import 'package:cinepedia_app/presentation/widgets/widgets.dart';
 import 'package:flutter/material.dart';
 
+import 'package:cinepedia_app/presentation/widgets/widgets.dart';
 import 'package:cinepedia_app/presentation/providers/providers.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
